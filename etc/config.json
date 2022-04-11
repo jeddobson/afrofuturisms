@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "black fiction", "tensorPath": "https://raw.githubusercontent.com/jeddobson/afrofuturisms/tensors/black_fiction_tensor.tsv", "metadataPath": "https://raw.githubusercontent.com/jeddobson/afrofuturisms/master/tensors/black_fiction_metadata.tsv", "tensorShape": [1000, 50]}]}
